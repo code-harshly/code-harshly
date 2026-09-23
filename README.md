@@ -1,4 +1,4 @@
-<div align="center">
+(<div align="center">
 
 # 👋 Hey, I'm Harsh Mishra
 
@@ -168,3 +168,4 @@ I'm currently expanding beyond web development and learning how to build **cross
 ⭐ If you find something interesting here, feel free to explore my repositories.
 
 </div>
+)This is my current readme of GitHub I want to update it like the image I have shared
